@@ -1,0 +1,21 @@
+apiVersion: jenkins.io/v1
+kind: SourceRepository
+metadata:
+  creationTimestamp: null
+  labels:
+    owner: cb-kubecd
+    provider: github
+    repository: bdd-sbhg-import-1575544926
+  name: cb-kubecd-bdd-sbhg-import-1575544926
+spec:
+  description: Imported application for cb-kubecd/bdd-sbhg-import-1575544926
+  httpCloneURL: https://github.com/cb-kubecd/bdd-sbhg-import-1575544926.git
+  org: cb-kubecd
+  provider: https://github.com
+  providerKind: github
+  providerName: github
+  repo: bdd-sbhg-import-1575544926
+  scheduler:
+    kind: ""
+    name: ""
+  url: https://github.com/cb-kubecd/bdd-sbhg-import-1575544926.git
