@@ -11,3 +11,9 @@ dependencies:
   url: https://github.com/cb-kubecd/bdd-nh-1575543141.git
   version: ""
   versionURL: ""
+- host: github.com
+  owner: cb-kubecd
+  repo: bdd-sbhg-1575543141
+  url: https://github.com/cb-kubecd/bdd-sbhg-1575543141.git
+  version: ""
+  versionURL: ""
